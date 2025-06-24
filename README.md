@@ -10,8 +10,7 @@ It displays your name, title, image, social media links, and custom buttons for 
 - Easy to customize for any user
 
 ## Preview
-
-![Profile Card Screenshot](![image](https://github.com/user-attachments/assets/63a45434-080e-4196-9b5f-3f737e7ede38)
+![image](![image](https://github.com/user-attachments/assets/5ba85aec-dd92-4cfb-96f5-13933bc513cd)
 
 ## Live Demo
 [View on GitHub Pages](https://bhavy29.github.io/Profile-card/)
